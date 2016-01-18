@@ -1,0 +1,13 @@
+c:\Projects\Garden\GardenTests\obj\Debug\GardenTests.csprojResolveAssemblyReference.cache
+c:\Projects\Garden\GardenTests\bin\Debug\GardenTests.dll
+c:\Projects\Garden\GardenTests\bin\Debug\GardenTests.pdb
+c:\Projects\Garden\GardenTests\bin\Debug\GardenMower.exe
+c:\Projects\Garden\GardenTests\bin\Debug\nunit.core.dll
+c:\Projects\Garden\GardenTests\bin\Debug\nunit.core.interfaces.dll
+c:\Projects\Garden\GardenTests\bin\Debug\nunit.framework.dll
+c:\Projects\Garden\GardenTests\bin\Debug\nunit.util.dll
+c:\Projects\Garden\GardenTests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\Projects\Garden\GardenTests\bin\Debug\GardenMower.pdb
+c:\Projects\Garden\GardenTests\bin\Debug\nunit.framework.xml
+c:\Projects\Garden\GardenTests\obj\Debug\GardenTests.dll
+c:\Projects\Garden\GardenTests\obj\Debug\GardenTests.pdb

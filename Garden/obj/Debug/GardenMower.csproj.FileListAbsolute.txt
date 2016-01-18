@@ -1,0 +1,6 @@
+c:\Projects\Garden\Garden\bin\Debug\GardenMower.exe.config
+c:\Projects\Garden\Garden\bin\Debug\GardenMower.exe
+c:\Projects\Garden\Garden\bin\Debug\GardenMower.pdb
+c:\Projects\Garden\Garden\obj\Debug\GardenMower.exe
+c:\Projects\Garden\Garden\obj\Debug\GardenMower.pdb
+c:\Projects\Garden\Garden\obj\Debug\GardenMower.csprojResolveAssemblyReference.cache
